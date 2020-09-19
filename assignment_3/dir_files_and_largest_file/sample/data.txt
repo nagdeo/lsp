@@ -1,0 +1,11901 @@
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe vbuild:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe 
+build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe  build:
+	gcc Filename.c -o myexe
+clean:
+	rm myexe
+help:
+	@echo 'Use as make build'
+run:
+	./myexe v
