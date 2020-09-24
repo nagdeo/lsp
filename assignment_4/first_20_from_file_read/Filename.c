@@ -7,9 +7,9 @@
 int main(int argc, char *argv[]){
 
     int fd=0,ret=0;
-    char arr[11];
+    char arr[21];
 
-    if(argc!=2){
+    if(argc!=3){
       printf("Invalid no. of arguments!");
       
     }
@@ -23,9 +23,9 @@ int main(int argc, char *argv[]){
    
      lseek(fd,atoi(argv[2]),SEEK_CUR);
      
-     while((ret=read(fd,arr,10))!=0){
-       write(1,arr,ret);
-     }
+     ret=read(fd,arr,20);
+     write(1,arr,ret);
+     
   
     
    

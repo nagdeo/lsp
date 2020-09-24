@@ -23,11 +23,27 @@ int main(int argc, char *argv[])
 		return -1;
 	}
 
+	// Open the directory
+	if ((dir = opendir(argv[1])) == NULL)
+	{
+		printf("Unable to open specified directory\n");
+		return -1;
+	}
 
-	fd=creat(argv[1],0777);
-     
 	
-	
+	while ((entry = readdir(dir)) != NULL)
+	{
+		// Create absolute path
+	        sprintf(name,"%s/%s", argv[1],entry->d_name);
+		stat(name,&filestat);
+			
+		if(filestat.st_size>100){
+                     unlink(name);
+                }
+			
+		
+	}
+       
 	// readdir() system call returns NULL when it reach end of the directory.
 
 	// closedir() close the directory which is opened by opendir()

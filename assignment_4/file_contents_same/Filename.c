@@ -3,12 +3,12 @@
 #include<stdlib.h>
 #include<unistd.h>
 #include <sys/types.h>
-#include<strings.h>
+#include<string.h>
 
 int main(int argc, char *argv[]){
 
     int fd=0,fd1=0;
-    int size=0,size1=0;
+    int size=0,size1=0,same=0;
     char arr[11],arr1[11];
     int ret=0,ret1=0;
 
@@ -42,7 +42,8 @@ int main(int argc, char *argv[]){
                write(1,arr1,10);
                 
             size-=10;
-             if(strcasecmp(arr, arr1)==0){
+             if(strcmp(arr, arr1)==0){
+                 same=1;
                  printf("File contents are not same");
              }
          }
@@ -50,7 +51,7 @@ int main(int argc, char *argv[]){
          printf("File contents are not same");
      }
      
-     if(size<=0){
+     if(size<=0 && same==0){
        printf("File contents are same");
      }
   
