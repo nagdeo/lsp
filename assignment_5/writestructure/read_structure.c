@@ -17,10 +17,7 @@ int main(int argc, char * argv[]){
   fd=open(argv[1],O_WRONLY|O_APPEND);
   
    struct employee emp;
-   emp.id = atoi(argv[2]);
-   strcpy(emp.fname,argv[3]); 
-   strcpy(emp.lname,argv[4]); 
-   strcpy(emp.email,argv[5]); 
+  
   
    
   
@@ -30,7 +27,10 @@ int main(int argc, char * argv[]){
    }
    printf("File gets successfully opened with fd : %d\n",fd);   
    
-   write(fd,&emp,sizeof(struct employee));
+    while((ret=read(fd,&emp,sizeof(emp)))!=0){
+      printf("Employee Info is \n:Id:%d \n fname: %s \n Lname: %s \n email: %s\n",emp.id,emp.fname,emp.lname,emp.email);
+
+    }
   
    close(fd);
   return 0;

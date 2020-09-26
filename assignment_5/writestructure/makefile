@@ -1,8 +1,8 @@
 build:
-	gcc Filename.c -o myexe
+	gcc read_structure.c -o myexeS
 clean:
-	rm myexe
+	rm myexeS
 help:
 	@echo 'Use as make build'
 run:
-	./myexe ${ARGS}
+	./myexeS ${ARGS}
