@@ -1,0 +1,8 @@
+Enter three numbers
+Addition is : 60 
+Enter three numbers
+Addition is : 80 
+Enter three numbers
+Addition is : 80 
+Enter three numbers
+Addition is : 80 
