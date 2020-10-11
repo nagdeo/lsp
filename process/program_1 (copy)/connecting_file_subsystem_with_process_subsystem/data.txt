@@ -1,0 +1,6 @@
+//parent wait till child terminate.
+//if we use sleep and if child process require more time than we give timing in sleep 
+//then parent kills first so always if parent wait till child terminate use wait systemm call
+//
+
+
