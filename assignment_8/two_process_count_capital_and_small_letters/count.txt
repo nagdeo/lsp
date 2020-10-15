@@ -1,0 +1,5 @@
+
+Child process 1 is running and having capital letters : 26
+
+Child process 1 is running and having small letters :26
+End of parent process
