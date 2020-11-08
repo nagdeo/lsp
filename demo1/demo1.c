@@ -40,7 +40,9 @@ void cleanup_module(void)
 
  
 
-  
+  simran@simran-Lenovo-IdeaPad-S145-15IWL:~$ cd /var/log
+ simran@simran-Lenovo-IdeaPad-S145-15IWL:var/log~$ cat syslog            // to see our module is loaded in kernel module (it will print the printk content in init_module function above
+                                                                              it is like constructor and cleanup_module()  gets loaded when we remove kernel module by(sudo rmmod demo1), it is like         														destructor)
 
   
 
